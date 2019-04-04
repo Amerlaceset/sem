@@ -14,7 +14,35 @@ y='\033[1;33m'
 n=install
 
 
+​
 
+
+
+echo -e " $purple Please subscribe to my channel [Virus4 Hacking(Amer Amer )]"
+
+19
+
+​
+
+20
+
+chat
+
+21
+
+sleep 5
+
+22
+
+termux-open https://www.youtube.com/channel/UCmQETFbkmkiSiu3og6F8usg
+
+23
+
+​
+
+24
+
+​
 
 cd $HOME/payload5
 
@@ -81,7 +109,7 @@ echo '       "$$$ee$$$"                  ||'
 echo '        4*$$$$F4                \  ||  /'
 sleep 0.1
 echo -e '        $ '$green"----"$blue'.$                 \ || /'
-echo -e '        "$$$$$$"   '$cyan'  [90]helpℹ️ '$blue'   \||/   '
+echo -e '        "$$$$$$"   '$cyan'  [90]helpâ„¹ï¸ '$blue'   \||/   '
 echo '          $$$$                     \/       '
 sleep 0.1
 echo -e "               $bluo p $green a $reset y $purple l $cyan o $yellow a $green d"
@@ -89,9 +117,9 @@ echo -e "               $bluo p $green a $reset y $purple l $cyan o $yellow a $g
 #echo '                               exit=CTRL+c'
 chat2
 echo -e "$green+________________________________________________________+"
-echo -e "$cyan|  [1] metasploit ⚔️|  $blue  [2] nmap 🌎| $purple  [3] dos attack ⛄1�7 |             "
+echo -e "$cyan|  [1] metasploit âš”ï¸|  $blue  [2] nmap ðŸŒŽ| $purple  [3] dos attack â›„1¤7 |             "
 #echo -e "| $green            --------------------------------            |  "
-echo -e "$yellow|  [4]   ngrok 🌐  |  $red  [5] virus ☢️️|  $reset [6]   Termux 📟   |    "
+echo -e "$yellow|  [4]   ngrok ðŸŒ  |  $red  [5] virus â˜¢ï¸ï¸|  $reset [6]   Termux ðŸ“Ÿ   |    "
 echo "                                        "
 echo -e " $purple       |   [7]facebook             [8]Encrypt    |"
 echo -e " $green          --------------------------------------"
