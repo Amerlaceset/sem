@@ -14,35 +14,35 @@ y='\033[1;33m'
 n=install
 
 
-​
+
 
 
 
 echo -e " $purple Please subscribe to my channel [Virus4 Hacking(Amer Amer )]"
 
-19
 
-​
 
-20
+
+
+
 
 chat
 
-21
+
 
 sleep 5
 
-22
+
 
 termux-open https://www.youtube.com/channel/UCmQETFbkmkiSiu3og6F8usg
 
-23
 
-​
 
-24
 
-​
+
+
+
+
 
 cd $HOME/payload5
 
